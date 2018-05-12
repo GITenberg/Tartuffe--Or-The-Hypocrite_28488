@@ -1,0 +1,41 @@
+_repo: Tartuffe--Or-The-Hypocrite_28488
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hoeper, Jeffrey D.
+    gutenberg_agent_id: '33362'
+    url: http://www.gutenberg.org/2009/agents/33362
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2009-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28488'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'French drama -- 17th century -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+title: Tartuffe; Or, The Hypocrite
+url: http://www.gutenberg.org/ebooks/28488
